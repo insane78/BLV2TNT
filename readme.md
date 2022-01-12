@@ -8,5 +8,4 @@ You can leave your z kinematics, electronics end so on... because this conversio
 The afteburner represented in pictures is only a placeholder, you can assembly every voron MGN12 compatible toolhead.
 Enjoy.
 
-<br/>
-![Alt text](./Pictures/Tool.jpg)<br/>
+ 
